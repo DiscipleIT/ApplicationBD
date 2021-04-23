@@ -1,0 +1,12 @@
+E:\Project\VisualStudio\WindowsForms\WindowsForms\bin\Debug\Database.mdf
+E:\Project\VisualStudio\WindowsForms\WindowsForms\bin\Debug\Database_log.ldf
+E:\Project\VisualStudio\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+E:\Project\VisualStudio\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+E:\Project\VisualStudio\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+E:\Project\VisualStudio\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+E:\Project\VisualStudio\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+E:\Project\VisualStudio\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+E:\Project\VisualStudio\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+E:\Project\VisualStudio\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+E:\Project\VisualStudio\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+E:\Project\VisualStudio\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
